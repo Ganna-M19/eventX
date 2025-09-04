@@ -37,7 +37,7 @@ EventX-full-stack-maim/
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v18+ recommended)
+- Node.js
 - npm
 
 ### Backend Setup
@@ -116,4 +116,4 @@ MIT
 ---
 
 ## Author
-Created by [Your Name].
+Created by Ganna Mohamed.
